@@ -3,7 +3,9 @@
 
 cff-version: 1.2.0
 title: logo-widget
-message: Custom Python widget to move/scale/rotate a logo
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
 authors:
   - given-names: Sébastien
@@ -11,6 +13,7 @@ authors:
     email: sebastien.mestrallet@hey.com
     orcid: 'https://orcid.org/0000-0002-4519-2814'
 repository-code: 'https://codeberg.org/sebmestrallet/logo-widget'
+abstract: Custom Python widget to move/scale/rotate a logo
 keywords:
   - anywidget
   - widget
