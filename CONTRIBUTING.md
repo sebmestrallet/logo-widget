@@ -1,0 +1,2 @@
+- Issues & PRs are welcome on [Codeberg](https://codeberg.org/sebmestrallet/logo-widget)
+- To be sure your code contribution will be accepted, first open an issue to discuss

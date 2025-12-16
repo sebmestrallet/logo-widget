@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: logo-widget
+message: Custom Python widget to move/scale/rotate a logo
+type: software
+authors:
+  - given-names: Sébastien
+    family-names: Mestrallet
+    email: sebastien.mestrallet@hey.com
+    orcid: 'https://orcid.org/0000-0002-4519-2814'
+repository-code: 'https://codeberg.org/sebmestrallet/logo-widget'
+keywords:
+  - anywidget
+  - widget
+  - python
+  - python-widget
+  - notebook
+  - marimo
+license: MIT
+date-released: '2025-12-16'
